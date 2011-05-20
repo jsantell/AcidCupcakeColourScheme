@@ -31,4 +31,5 @@ Supported languages just have been tested with the colour scheme. Unsupported la
 
 ## To Do ##
 * More supported languages in VIM
-* Upload Konsole
+* Upload Konsole scheme
+* Upload images
