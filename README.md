@@ -1,0 +1,34 @@
+# Acid Cupcake Colour Scheme #
+
+## About ##
+
+A vibrant, dark and obnoxiously awesome colour scheme for text editors and terminals.
+
+Created by [Jordan Santell](http://www.jsantell.com), inspired by the syntax colours on [ImpactJS.com](http://www.impactjs.com). Everything in this repo is released under The MIT License; tweek, revise, publish, taste the rainbow.
+
+## Supported Terminals & Editors ##
+
+* VIM (16 colour, 256 colour, and gVIM)
+* Konsole 
+
+### VIM ###
+The VIM scheme uses a modified take on Al Budden's VIM colour scheme creation technique, seen in his [Bandit VIM scheme](https://sites.google.com/site/abudden/contents/Vim-Scripts/bandit-colour-scheme).
+#### Set Up ####
+* Move ``acidcupcake.vim`` to your ``~/.vim/colors/`` directory.
+* In your ``~/.vimrc`` file, add the following lines
+<pre>
+    syntax enable
+    set background=dark
+    colorscheme acidcupcake
+</pre>
+#### Syntax Supported ####
+Supported languages just have been tested with the colour scheme. Unsupported languages still have the colours, just no special care to what is coloured what.
+* Javascript
+
+### Konsole ###
+#### Set Up ####
+
+
+## To Do ##
+* More supported languages in VIM
+* Upload Konsole
