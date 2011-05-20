@@ -31,7 +31,17 @@ Supported languages just have been tested with the colour scheme. Unsupported la
 
 ## Konsole ##
 
-### Set Up ###
+## Coda ##
+
+Go to ``Coda > Preferences > Colors`` and go to ``import`` for any scheme you'd like. Made as a favour for a friend, not heavily tested!
+
+### Syntax Supported ###
+
+* ASP-HTML
+* CSS
+* Javascript
+* HTML
+* PHP-HTML 
 
 
 # To Do #
