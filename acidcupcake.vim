@@ -4,7 +4,7 @@
 " @date: May 2011
 " @copyright (c) 2011 Jordan Santell, under The MIT License (see LICENSE)
 " Vim colour scheme
-" Vim template inspired by Al Budden's Bandit Vim colour scheme
+" Vim template based off of a modified take on Al Budden's Bandit Vim colour scheme
 " Visually based off of code snippets from www.impactjs.com
 
 
