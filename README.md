@@ -12,8 +12,11 @@ Created by [Jordan Santell](http://www.jsantell.com), inspired by the syntax col
 * Konsole 
 
 ### VIM ###
+
 The VIM scheme uses a modified take on Al Budden's VIM colour scheme creation technique, seen in his [Bandit VIM scheme](https://sites.google.com/site/abudden/contents/Vim-Scripts/bandit-colour-scheme).
+
 #### Set Up ####
+
 * Move ``acidcupcake.vim`` to your ``~/.vim/colors/`` directory.
 * In your ``~/.vimrc`` file, add the following lines
 <pre>
@@ -21,15 +24,20 @@ The VIM scheme uses a modified take on Al Budden's VIM colour scheme creation te
     set background=dark
     colorscheme acidcupcake
 </pre>
+
 #### Syntax Supported ####
+
 Supported languages just have been tested with the colour scheme. Unsupported languages still have the colours, just no special care to what is coloured what.
+
 * Javascript
 
 ### Konsole ###
+
 #### Set Up ####
 
 
 ## To Do ##
+
 * More supported languages in VIM
 * Upload Konsole scheme
 * Upload images
