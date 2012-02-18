@@ -7,7 +7,9 @@ Created by [Jordan Santell](http://www.jsantell.com), inspired by the syntax col
 # Supported Terminals & Editors #
 
 * VIM (16 colour, 256 colour, and gVIM)
-* Konsole 
+* iTerm2 (OSX)
+* Coda (partial support)
+* Konsole
 
 ## VIM ##
 
@@ -28,6 +30,9 @@ The VIM scheme uses a modified take on Al Budden's VIM colour scheme creation te
 Supported languages just have been tested with the colour scheme. Unsupported languages still have the colours, just no special care to what is coloured what.
 
 * Javascript
+
+## iTerm2
+* Import dat preset
 
 ## Konsole ##
 
