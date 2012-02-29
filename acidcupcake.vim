@@ -20,7 +20,7 @@ set background=dark
 
 
 let Colour = {}
-let Colour['BLACK'] = {"GUI" : "#212426", "256term" : "236", "16term" : "8" }
+let Colour['BLACK'] = {"GUI" : "#212426", "256term" : "233", "16term" : "8" }
 let Colour['WHITE'] = {"GUI" : "#FFFDEB", "256term" : "230", "16term" : "15" }
 let Colour['GREEN'] = {"GUI" : "#AAEE22", "256term" : "154", "16term" : "10" }
 let Colour['BLUE'] = {"GUI" : "#04DBE5", "256term" : "45", "16term" : "11" }

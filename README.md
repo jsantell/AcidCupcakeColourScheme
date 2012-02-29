@@ -2,7 +2,7 @@
 
 A vibrant, dark and obnoxiously awesome colour scheme for text editors and terminals.
 
-Created by [Jordan Santell](http://www.jsantell.com), inspired by the syntax colours on [ImpactJS.com](http://www.impactjs.com). Everything in this repo is released under The MIT License; tweek, revise, publish, taste the rainbow.
+Inspired by the syntax colours on [ImpactJS.com](http://www.impactjs.com). Everything in this repo is released under The MIT License; tweek, revise, publish, taste the rainbow.
 
 # Supported Terminals & Editors #
 
@@ -54,3 +54,7 @@ Go to ``Coda > Preferences > Colors`` and go to ``import`` for any scheme you'd 
 * More supported languages in VIM
 * Upload Konsole scheme
 * Upload images
+
+# Author #
+
+Jordan Santell [@jsantell](http://twitter.com/jsantell)
